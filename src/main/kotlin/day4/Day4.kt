@@ -93,7 +93,6 @@ fun part2(input: List<String>): Any {
     throw Exception("Nobody won")
 }
 
-
 fun main() {
     val input = File("src/main/kotlin/day4/input.txt").readLines()
     println(part1(input))

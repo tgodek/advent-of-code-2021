@@ -1,7 +1,6 @@
 package day1
 
 import java.io.File
-import kotlin.math.absoluteValue
 
 
 fun List<Int>.calculateTripleDepth(): List<Int> {
